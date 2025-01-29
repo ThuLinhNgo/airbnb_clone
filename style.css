@@ -1,0 +1,45 @@
+nav {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.text-center {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.hero {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+.container-fluid {
+  width: 90%;
+}
+
+img {
+  border-radius: 10%;
+}
+
+.card {
+  border: none;
+}
+
+.sub-hero {
+  border-bottom: 1px solid gray;
+}
+
+li {
+  list-style: none;
+}
+a {
+  color: black;
+}
+
+.first-part {
+  border-bottom: 1px solid gray;
+  padding-bottom: 50px;
+}
