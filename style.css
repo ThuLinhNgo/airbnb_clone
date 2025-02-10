@@ -15,6 +15,25 @@ nav {
   border-top: 1px solid gray;
   border-bottom: 1px solid gray;
 }
+@media (max-width: 800px) {
+  .left-text {
+    order: 1;
+  }
+  .right-photo {
+    padding-left: 50px;
+    order: 0;
+  }
+  .card {
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    row-gap: 20px;
+  }
+  .card-img-top {
+    height: 200px;
+    width: 200px;
+  }
+}
 
 .container-fluid {
   width: 90%;
